@@ -28,4 +28,4 @@ Using test in Pix2Pix GAN to generate 50 different illumination effect images.
 ## Object coordinate detector training 
 Gather all generated image and original image inside a folder and use detector train for training.
 
-###
+## Object coordinate detector test
