@@ -1,4 +1,4 @@
-# Deep-trained illumination-robust precision positioning for real-time manipulation of embedded objects
+# One Shot II
 This paper quote from https://github.com/affinelayer/pix2pix-tensorflow .
 
 Based on pix2pix by Isola et al
