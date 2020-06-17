@@ -3,6 +3,7 @@ This paper quote from https://github.com/affinelayer/pix2pix-tensorflow .
 
 Based on pix2pix by Isola et al
 
+![image]{流程圖-英.jpg}
 ## Setup
 
 ### Prerequisites
