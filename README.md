@@ -6,7 +6,7 @@ Based on pix2pix by Isola et al
 ## Setup
 
 ### Prerequisites
-  Tensorflow 1.4.1
+  Tensorflow 1.4.1 or higher
   
 ### Recommended
   Windows with Tensorflow GPU edition + cuDNN
@@ -15,15 +15,16 @@ Based on pix2pix by Isola et al
 The data format used by this program is the same as the original pix2pix format, which consists of images of input and desired output side by side. 
 
 ## Training
+Use PIX2PIX GAN automatically train 50 different illumination template.
 
 ## Testing
 The testing mode will load some of the configuration options from the checkpoint provided.
 
 ## Taget object image 
-Using  to take one image from taget object.
+Use "Look" to take one image of taget object.
 
 ## Generating illumination effect on target object image
-Using test in Pix2Pix GAN to generate 50 different illumination effect images.
+Using test in Pix2Pix GAN to generate 50 different illumination effect on image of taget object.
 
 
 ## Object coordinate detector training 
