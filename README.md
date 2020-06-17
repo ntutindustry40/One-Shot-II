@@ -11,15 +11,19 @@ Based on pix2pix by Isola et al
   
 ### Recommended
   Windows with Tensorflow GPU edition + cuDNN
-  
+
+# PIX2PIX
+
 ## Datasets and Trained Models
 The data format used by this program is the same as the original pix2pix format, which consists of images of input and desired output side by side. 
 
 ## Training
 Use PIX2PIX GAN automatically train 50 different illumination template.
 
-## Testing
+## Generation
 The testing mode will load some of the configuration options from the checkpoint provided.
+
+# Object coordinate detector
 
 ## Taget object image 
 Use "Take Picture" to take one image of taget object.
