@@ -21,13 +21,13 @@ Use PIX2PIX GAN automatically train 50 different illumination template.
 The testing mode will load some of the configuration options from the checkpoint provided.
 
 ## Taget object image 
-Use "Look" to take one image of taget object.
+Use "Take Picture" to take one image of taget object.
 
 ## Generating illumination effect on target object image
 Using test in Pix2Pix GAN to generate 50 different illumination effect on image of taget object.
 
-
 ## Object coordinate detector training 
-Gather all generated image and original image inside a folder and use detector train for training.
+Gather all generated image and original image inside a folder and use "PDT" for object coordinate detector training.
 
 ## Object coordinate detector test
+Use "Detection" for Object coordinate detector test
