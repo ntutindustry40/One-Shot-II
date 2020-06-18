@@ -10,9 +10,10 @@ Based on pix2pix by Isola et al
 
 ### Prerequisites
   Tensorflow 1.4.1 or higher
+  OpenCV 3.4.2 or higher
   
 ### Recommended
-  Windows with Tensorflow GPU edition + cuDNN
+  Windows with Tensorflow GPU edition + cuDNN (Hughly recommend)
 
 # PIX2PIX
 
